@@ -2,7 +2,7 @@
 
 ###############################################################
 
-Checkout @anurse reply on following link,
+The purpose of this repository is to give alternative solution since SignalR 1.0 release version was not supporting Xamarin. Please checkout @anurse reply on following link,
 https://github.com/aspnet/SignalR/issues/1886
 The issue is fixed in latest Visual Studio 15.8 Preview version. 
 
